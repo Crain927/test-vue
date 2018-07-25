@@ -10,6 +10,9 @@
 # install dependencies
 npm install
 
+# install html2canvas
+npm install html2canvas
+
 # serve with hot reload at localhost:8880
 npm run dev
 
