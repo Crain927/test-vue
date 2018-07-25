@@ -1,6 +1,8 @@
 # my-project dev
 
-> A Vue.js project
+> Canvas -> Img
+
+利用[html2canvas](http://html2canvas.hertzen.com/getting-started/)</a> 将html在画布中画出，再new Image()创建图片，插入到DOM中。
 
 ## Build Setup
 
